@@ -9,7 +9,7 @@ curated list of selected research papers for AI/ML/NLP
 
 # Novelty Detection
 * Zero shot learning - https://medium.com/@cetinsamet/zero-shot-learning-53080995d45f
-* 
+* Text - https://www.researchgate.net/publication/270633478_Contextual_Anomaly_Detection_in_Text_Data
 
 ## Word Embeddings
 * Original paper of **word2vec** by Mikolov et al.: https://arxiv.org/pdf/1301.3781.pdf
